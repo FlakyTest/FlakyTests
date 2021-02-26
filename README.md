@@ -73,3 +73,6 @@ Usage: FlakeScanner [options] appName testPackage apkPath testRunnerClsPath test
   testClassPath
   testMethodPath
 ```
+## Test names for Flaky Tests detected by FlakeScanner
+
+https://github.com/FlakyTest/FlakyTests/blob/main/Supplementary_material_for_FlakeScanner.pdf
